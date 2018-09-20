@@ -1,5 +1,6 @@
 package com.hanung.demo2;
 
+import com.hanung.demo2.domain.posts.PostsRepository;
 import com.hanung.demo2.domain.posts.PostsRepositoryTest;
 import org.junit.Test;
 import org.junit.runner.RunWith;
